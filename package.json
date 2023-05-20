@@ -1,0 +1,27 @@
+{
+  "name": "usevindecoder",
+  "version": "1.0.0",
+  "description": "React hook for decoding vin against NHTSA api",
+  "main": "useVINDecoder.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/blankwavearcade/usVINDecoder.git"
+  },
+  "keywords": [
+    "VIN",
+    "React",
+    "Hooks",
+    "custom",
+    "hook",
+    "cars"
+  ],
+  "author": "Justin P. Boyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blankwavearcade/usVINDecoder/issues"
+  },
+  "homepage": "https://github.com/blankwavearcade/usVINDecoder#readme"
+}
