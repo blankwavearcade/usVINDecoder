@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/blankwavearcade/usVINDecoder/issues"
   },
-  "homepage": "https://github.com/blankwavearcade/usVINDecoder#readme"
+  "homepage": "https://github.com/blankwavearcade/usVINDecoder#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
